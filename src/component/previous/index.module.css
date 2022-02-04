@@ -1,0 +1,18 @@
+.button {
+    background-color: #00c7ac;
+    width:100px;
+    height: 100px;
+    padding: 8px 16px;
+    font-size: large;
+    border-radius: 50%;
+    position: absolute;
+    left: 600px;
+    top: 600px;
+
+    
+}
+
+.cross {
+   width: 48px;
+   text-align: center;
+}
